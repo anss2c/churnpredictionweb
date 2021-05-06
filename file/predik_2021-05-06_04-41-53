@@ -1,0 +1,37 @@
+Level;WBS code;WBS name;WBS description;Percent of work of the overall/parent deliverable;Status
+0;1;Pembangunan Aplikasi Web untuk Automatisasi  Penyusunan Laporan Keuangan;Pengembangan suatu aplikasi yang membantu dalam menyusun laporan keuangan secara otomatis berbasis web;1;In progress
+1;1.1;Project Management;Tahap persiapan sebelum melakukan pengembangan aplikasi;0,21;In progress
+2;1.1.1;Project Planning;Merencanakan pengembangan aplikasi yang akan dilakukan;0,05;In progress
+2;1.1.2;Project Schedule;Membuat penjadwalan untuk pengembangan aplikasi;0,02;In progress
+2;1.1.3;Project Administration;Mengelola administrasi seperti keuangan selama proses pengembangan;0,09;In progress
+2;1.1.4;Risk Management;Mengelola resiko selama pengembangan aplikasi;0,05;In progress
+1;1.2;Define Concept;Mendefinisikan proses bisnis, masalah, dan kebutuhan dari website yang akan dibuat;0,25;In progress
+2;1.2.1;Evaluate Current Business Process;Melakukan identifikasi dan evaluasi proses bisnis yang sedang berjalan;0,05;In progress
+2;1.2.2;Problem Identification;melakukan identifikasi masalah yang terdapat pada proses bisnis sehingga dibutuhkan pengembangan aplikasi ;0,04;In progress
+2;1.2.3;Define Requerements;Mendefinisikan kebutuhan secara keselurahan dalam web yang akan dikembangkan;0,11;In progress
+3;1.2.3.1;Define User Requrements;mendefinisikan kebutuhan pengguna dalam web;0,04;In progress
+3;1.2.3.2;Define Content Requirements;mendefinisikan content yang akan ditampilkan dalam web;0,03;In progress
+3;1.2.3.3;Define System Requirements;mendefiniskan kebutuhan perangkat keras, perangkat lunak, network dalam pengembangan aplikasi;0,04;In progress
+2;1.2.4;Define Specific Function;mendefinikan fungsi-fungsi khusus yang harus ada dalam aplikasi;0,05;In progress
+1;1.3;Website Design;Melakukan perancangan terhadap aplikasi yang akan dikembangkan;0,24;In progress
+2;1.3.1;Architecture Design;Membuat rancangan arsitektur aplikasi secara keseluruhan yang meliputi input, proses, dan output;0,05;In progress
+2;1.3.2;Database Design;Membuat rancangan basis data dalam aplikasi;0,04;In progress
+2;1.3.3;System Modelling;Membuat model dari aplikasi yang meliputi use case diagram, activity diagram, sequence diagram, dll ;0,09;In progress
+2;1.3.4;Interface Design;Membuat rancangan antar muka;0,06;In progress
+1;1.4;Website Development;Melakukan implementasi dari rancangan yang telah dibuat;0,17;In progress
+2;1.4.1;Database Implementation;Membuat basis data dengan menggunakan DBMS yang sesuai;0,04;In progress
+2;1.4.2;Interface Implementation;Membuat antar muka aplikasi dengan menggunakan HTML dan javascript;0,04;In progress
+2;1.4.3;Content Creation;Membuat content yang akan ditampilkan dalam aplikasi;0,03;In progress
+2;1.4.4;Functionality Implementation;Mentranformasi diagram pada model sistem menjadi fungsi dalam aplikasi;0,06;In progress
+1;1.5;Website Testing;Melakukan pengujian dari aplikasi yang telah dimplementasi;0,06;In progress
+2;1.5.1;System testing;melakukan pengujian sistem yang dilakukan oleh engiiner;0,03;In progress
+3;1.5.1.1;White box testing;melakukan pengujian white box terhadap code-code yang ditulis;0,015;In progress
+3;1.5.1.2;Black box testing;melakukan pengujian black box terhadap fungsi-fungsi yang terdapat dalam aplikasi;0,015;In progress
+2;1.5.2;User testing;Melakukan pengujian yang dilakukan oleh calon pengguna;0,02;In progress
+2;1.5.3;Evaluation;Melakukan evaluasi terhadap hasil pengujian;0,01;In progress
+1;1.6;Website Deployment;Melakukan instalasi pada lingkungan penggunaan;0,04;In progress
+2;1.6.1;Network and server configuration;melakukan konfigurasi jaringan dan server;0,02;In progress
+2;1.6.2;system installing;Melakukan migrasi dari development server ke server ;0,02;In progress
+1;1.7;Website Comunication;Menyebarkan aplikasi yang telah dikembangkan;0,03;In progress
+2;1.7.1;User Guide;Membuat pedoman penggunaan aplikasi;0,01;In progress
+2;1.7.2;Training;Melakukan pelatihan penggunaan aplikasi yang dibuat;0,02;In progress

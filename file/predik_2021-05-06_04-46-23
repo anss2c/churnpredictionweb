@@ -1,0 +1,26 @@
+Level,WBS code,WBS name,WBS description,Percent of work of the overall/parent deliverable,Budget,Assigned to,Status
+0,1,Car manufacturing,All deliverables that need to be complete to manufacture a car,100%,"$23,540",Manufacturing manager,In progress
+1,1.1,Interior,Interior components of the car,30%,"$8,220",Team 1,In progress
+2,1.1.1,Seats,"Cushions and adjusting mechanisms, including seat belts",5%,"$2,100",Jackson,Waiting
+2,1.1.2,Upholstery,Seat covering and plastic fittings,14%,"$1,122",Jackson,In progress
+3,1.1.2.1,Seat covering,Fabric that will be used to cover seats,9%,$670,Jackson,In progress
+3,1.1.2.2,Plastic fittings,All other covering needed inside of the car,5%,$452,Sean,Waiting
+2,1.1.3,Trunk,Space behind last row of seats,4%,"$3,000",Noah,Complete
+2,1.1.4,Steering system,Steering wheel and column,7%,"$1,998",James,Complete
+1,1.2,Body and exterior,Exterior and body components of the car,54%,"$10,780",Team 2,In progress
+2,1.2.1,Windshield,"Shatterproof glass, defroster, and windshield wipers",2%,$420,Savannah,Complete
+2,1.2.2,Doors,"Locking mechanism, door panels, and windows",9%,"$1,500",Tyler,In progress
+2,1.2.3,Roof,Includes optional rack and sun roof,7%,$980,Savannah,Complete
+2,1.2.4,Side panels,"Metal frame and panels; does not include doors",9%,"$2,290",Savannah,In progress
+2,1.2.5,Undercarriage and wheels,"Axles, transmission, exhaust, and suspension",4%,"$1,780",Ross,Waiting
+2,1.2.6,Engine,"Radiator, belts, spark plugs, filters, A/C unit, etc.",13%,"$3,600",Brittany,Waiting
+2,1.2.7,Breaks,All parts related to car's breaking systems,6%,$210,Bridger,Waiting
+1,1.3,Wiring and electronics,Wiring and electronic components of the car,16%,"$4,540",Team 3,In progress
+2,1.3.1,Lighting,Interior and exterior lighting,5%,$850,Luke,In progress
+3,1.3.1.1,Interior lighting,Dome lights,1%,$100,Luke,In progress
+3,1.3.1.2,Exterior lighting,"Brights, blinkers, headlights, and fog lights",4%,$750,Luke,Waiting
+2,1.3.2,Media features,"Audio system, radio/cd player, cellphone ports",4%,"$1,500",Taylor,In progress
+3,1.3.3.1,Audio system,Speakers,2%,$310,Taylor,Complete
+3,1.3.3.2,Radio/CD player,Radio/CD player,1%,$600,Taylor,Waiting
+3,1.3.3.3,Cellphone ports,USB/lighting connector ports on or near dashboard,1%,$590,Taylor,In progress
+2,1.3.3,Dashboard,"Information, safety, and speed display ",4%,"$1,000",Jessica,Waiting
